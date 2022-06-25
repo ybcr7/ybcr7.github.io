@@ -4,20 +4,32 @@
   
   
   <entry>
-    <title>second</title>
+    <title>HEXO</title>
     <link href="/2022/06/25/second/"/>
     <url>/2022/06/25/second/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h1><p>新文章</p><p>hexo new “ ”</p><p>新草稿</p><p>hexo new draft “”</p><p>新页面</p><p>hexo new page “”</p><p>部署：</p><figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs ebnf"><span class="hljs-attribute">hexo clean</span><br><span class="hljs-attribute"></span><br><span class="hljs-attribute">hexo g</span><br><span class="hljs-attribute"></span><br><span class="hljs-attribute">hexo d</span><br></code></pre></td></tr></table></figure><p>localhost:4000</p><figure class="highlight ebnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs ebnf"><br><span class="hljs-attribute">hexo g</span><br><span class="hljs-attribute"></span><br><span class="hljs-attribute">hexo s</span><br><br></code></pre></td></tr></table></figure>]]></content>
     
     
+    <categories>
+      
+      <category>CS</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+    </tags>
     
   </entry>
   
   
   
   <entry>
-    <title>你好</title>
+    <title>DEBUT</title>
     <link href="/2022/06/25/%E4%BD%A0%E5%A5%BD/"/>
     <url>/2022/06/25/%E4%BD%A0%E5%A5%BD/</url>
     
@@ -26,12 +38,16 @@
     
     <categories>
       
-      <category>1</category>
-      
-      <category>2</category>
+      <category>DEBUT</category>
       
     </categories>
     
+    
+    <tags>
+      
+      <tag>瞎写</tag>
+      
+    </tags>
     
   </entry>
   
